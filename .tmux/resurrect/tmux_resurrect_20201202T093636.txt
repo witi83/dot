@@ -1,0 +1,26 @@
+pane	DialogFlow	1	:zsh	1	:*	0	:/home/witi/projects/microservice-fulfillment	1	zsh	:
+pane	DialogFlow	1	:zsh	1	:*	1	:/home/witi/projects/microservice-fulfillment	0	zsh	:
+pane	Rust	0	:zsh	1	:*	0	:/home/witi/projects/rust/adventofcode/day02	1	zsh	:
+pane	aws	0	:zsh	1	:*	0	:/home/witi/projects/infrastructure-aws	1	zsh	:
+pane	ccc	0	:zsh	1	:*	0	:/home/witi/projects/gitlab	1	zsh	:
+pane	ccc	0	:zsh	1	:*	1	:/home/witi/projects/ccc_desktop	0	zsh	:
+pane	elastic	0	:zsh	1	:*	0	:/home/witi/projects/microservice-search	0	zsh	:
+pane	elastic	0	:zsh	1	:*	1	:/home/witi/projects/cg_ops	1	zsh	:
+pane	inside	0	:zsh	1	:*	0	:/home/witi/projects/microservice-complaint	1	zsh	:
+pane	inside	0	:zsh	1	:*	1	:/home/witi/projects/cg_inside	0	zsh	:
+pane	raytracer	0	:zsh	1	:*	0	:/home/witi/projects/raytracers/java	1	zsh	:
+pane	raytracer	0	:zsh	1	:*	1	:/home/witi/projects/throttled	0	zsh	:
+pane	scd	0	:zsh	1	:*	0	:/home/witi/projects/sc_frontend	1	zsh	:
+pane	scd	0	:zsh	1	:*	1	:/home/witi/projects/cg_ops	0	zsh	:
+pane	swm	0	:zsh	1	:*	0	:/home/witi	0	zsh	:
+pane	swm	0	:zsh	1	:*	1	:/home/witi/Music	1	zsh	:/usr/libexec/flatpak-bwrap --args 34 teams
+window	DialogFlow	1	1	:*	2c4c,213x55,0,0[213x27,0,0,1,213x27,0,28,2]
+window	Rust	0	1	:*	6167,213x55,0,0,18
+window	aws	0	1	:*	c260,213x55,0,0,3
+window	ccc	0	1	:*	ac53,213x55,0,0[213x27,0,0,4,213x27,0,28,5]
+window	elastic	0	1	:*	ac58,213x55,0,0[213x27,0,0,6,213x27,0,28,7]
+window	inside	0	1	:*	ac5d,213x55,0,0[213x27,0,0,8,213x27,0,28,9]
+window	raytracer	0	1	:*	5019,213x55,0,0[213x27,0,0,10,213x27,0,28,11]
+window	scd	0	1	:*	501c,213x55,0,0[213x27,0,0,12,213x27,0,28,13]
+window	swm	0	1	:*	16df,213x55,0,0[213x24,0,0,14,213x30,0,25,15]
+state	Rust	DialogFlow
