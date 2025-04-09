@@ -1,0 +1,23 @@
+pane	8	0	1	:*	0	witi-arch	:/home/witi	1	zsh	:
+pane	EDEKA	0	1	:*	0	witi-arch	:/home/witi/Documents/edeka/samples	0	zsh	:
+pane	EDEKA	0	1	:*	1	witi-arch	:/home/witi/Documents/edeka	1	zsh	:
+pane	TKE	0	1	:*	0	witi-arch	:/home/witi/Documents/henkel/genai	1	zsh	:
+pane	TKE	0	1	:*	1	witi-arch	:/home/witi	0	zsh	:
+pane	data-engineering	0	1	:*	0	witi-arch	:/home/witi/projects/data-engineering	0	zsh	:
+pane	data-engineering	0	1	:*	1	witi-arch	:/home/witi/projects/data-engineering	1	zsh	:
+pane	databricks	0	1	:*	0	witi-arch	:/home/witi/projects/rust/advent-of-code/2024/day1	0	zsh	:
+pane	databricks	0	1	:*	1	witi-arch	:/home/witi/projects/rust/advent-of-code/2024/day1	1	zsh	:
+pane	main	0	1	:*	0	witi-arch	:/home/witi	1	zsh	:
+pane	main	0	1	:*	1	witi-arch	:/home/witi/Downloads	0	zsh	:/opt/teams-for-linux/teams-for-linux --ozone-platform=wayland
+pane	octapharma	0	1	:*	0	witi-arch	:/home/witi/Downloads	0	zsh	:
+pane	octapharma	0	1	:*	1	witi-arch	:/home/witi/projects	1	zsh	:
+pane	recruiting	1	1	:*	0	witi-arch	:/home/witi	1	zsh	:
+window	8	0	:zsh	1	:*	6363,80x29,0,0,14	:
+window	EDEKA	0	:zsh	1	:*	2d29,254x62,0,0[254x31,0,0,1,254x30,0,32,2]	:
+window	TKE	0	:zsh	1	:*	0dac,254x60,0,0[254x30,0,0,3,254x29,0,31,4]	:
+window	data-engineering	0	:zsh	1	:*	2d33,254x62,0,0[254x31,0,0,5,254x30,0,32,6]	:
+window	databricks	0	:zsh	1	:*	2d38,254x62,0,0[254x31,0,0,7,254x30,0,32,8]	:
+window	main	0	:zsh	1	:*	d4e1,254x60,0,0[254x29,0,0,9,254x30,0,30,10]	:
+window	octapharma	0	:zsh	1	:*	d149,254x62,0,0[254x30,0,0,11,254x31,0,31,12]	:
+window	recruiting	1	:zsh	1	:*	5d22,254x62,0,0,13	:
+state	TKE	main

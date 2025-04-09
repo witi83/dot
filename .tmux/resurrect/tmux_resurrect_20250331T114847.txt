@@ -1,0 +1,21 @@
+pane	EDEKA	0	1	:*	0	witi-arch	:/home/witi/Documents/edeka/samples	0	zsh	:
+pane	EDEKA	0	1	:*	1	witi-arch	:/home/witi/Documents/edeka	1	zsh	:
+pane	Henkel	0	1	:*	0	witi-arch	:/home/witi/Documents/henkel/genai	1	zsh	:
+pane	Henkel	0	1	:*	1	witi-arch	:/home/witi	0	zsh	:
+pane	data-engineering	0	1	:*	0	witi-arch	:/home/witi/projects/data-engineering	0	zsh	:
+pane	data-engineering	0	1	:*	1	witi-arch	:/home/witi/projects/data-engineering/dbx-migrate	1	zsh	:
+pane	databricks	0	1	:*	0	witi-arch	:/home/witi/projects/rust/advent-of-code/2024/day1	0	zsh	:
+pane	databricks	0	1	:*	1	witi-arch	:/home/witi/projects/rust	1	zsh	:
+pane	main	0	1	:*	0	witi-arch	:/home/witi	1	zsh	:
+pane	main	0	1	:*	1	witi-arch	:/home/witi/Downloads	0	zsh	:
+pane	octapharma	0	1	:*	0	witi-arch	:/home/witi/Downloads	0	zsh	:
+pane	octapharma	0	1	:*	1	witi-arch	:/home/witi/projects	1	zsh	:
+pane	recruiting	1	1	:*	0	witi-arch	:/home/witi	1	zsh	:
+window	EDEKA	0	:zsh	1	:*	8e58,200x52,0,0[200x26,0,0,1,200x25,0,27,2]	:
+window	Henkel	0	:zsh	1	:*	665c,200x51,0,0[200x25,0,0,3,200x25,0,26,4]	:
+window	data-engineering	0	:zsh	1	:*	8e62,200x52,0,0[200x26,0,0,5,200x25,0,27,6]	:
+window	databricks	0	:[tmux]	1	:*	6666,200x51,0,0[200x25,0,0,7,200x25,0,26,8]	:
+window	main	0	:zsh	1	:*	73fa,200x52,0,0[200x25,0,0,9,200x26,0,26,10]	:
+window	octapharma	0	:zsh	1	:*	ce81,200x52,0,0[200x25,0,0,11,200x26,0,26,12]	:
+window	recruiting	1	:zsh	1	:*	5a82,200x52,0,0,13	:
+state	databricks	Henkel
